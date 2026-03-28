@@ -1,0 +1,1 @@
+pm2 sendSignal SIGHUP fastapi-backend
